@@ -2,7 +2,7 @@ To download the Microsoft Word template:
 
 Follow this link:
 
-https://github.com/LJF527/ADLib/blob/f2be388a2e777bddf22d3c61eb4f49dc6eab64c3/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Energy%20Meter/Template%20(Microsoft%20Word)/Energy%20Meter%20Template.docx
+https://github.com/LJF527/ADLib/blob/74719d0f2d3d55e53d88314e11e6fe7c055403b4/Ethics%2C%20Building%20Relationships%20and%20Understanding%20Participants'%20Needs/Informed%20Consent/GDPR/Template%20(Microsoft%20Word)/GDPR%20and%20Privacy%20Notice%20(Easy%20Read).docx
 
 Select “view raw”.
 
