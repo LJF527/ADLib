@@ -2,7 +2,7 @@ To download the Microsoft Word template:
 
 Follow this link:
 
-https://github.com/LJF527/ADLib/blob/71bb8f4133c0f20b52806c04c1ad6a260180a6f0/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Regulation%20Meter/Template%20(Microsoft%20Word)/Regulation%20Meter%20Template%20.docx
+https://github.com/LJF527/ADLib/blob/efe2ead19f6c9c779330287a27e5796c4308df64/Ethics%2C%20Building%20Relationships%20and%20Understanding%20Participants'%20Needs/Informed%20Consent/Consent/Template%20(Microsoft%20Word)/Consent%20(Easy%20Read).docx
 
 Select “view raw”.
 
