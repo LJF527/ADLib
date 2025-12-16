@@ -8,6 +8,10 @@ Select “make a copy”.
 
 You can now edit the google document to suit your needs.
 
+
+
+
+
 如需下载 Google 文档模板，请点击此链接：
 
 https://docs.google.com/document/d/1uhnec1fERTi8OmLL65Txn69q22g0yZTd/edit?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
@@ -18,6 +22,10 @@ https://docs.google.com/document/d/1uhnec1fERTi8OmLL65Txn69q22g0yZTd/edit?usp=dr
 
 现在您可以根据自己的需求编辑该 Google 文档。
 
+
+
+
+
 Para descargar la plantilla de Google Docs, haz clic en este enlace:
 
 https://docs.google.com/document/d/11mlgUTHjVGBl606X0aD9IAwaSAeiBeVC/edit?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
@@ -27,6 +35,10 @@ Cuando hagas clic en este enlace, verás la pregunta: ¿Quieres hacer una copia 
 Selecciona «Hacer una copia».
 
 Ahora puedes editar el documento de Google como quieras.
+
+
+
+
 
 गूगल डॉक्यूमेंट टेम्प्लेट डाउनलोड करने के लिए, इस लिंक को फॉलो करें:
 
