@@ -18,7 +18,7 @@ You can now edit the word document to suit your needs.
 
 https://github.com/LJF527/ADLib/blob/8230d358075031da55d00ee1655b1c2cf7515852/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Visual%20Conversation/Template%20(Microsoft%20Word)/Visual%20Conversation%20Template-zh_cn.docx
 
-选择“查看原始文件”。
+选择“查看原始文件” ("View Raw")。
 
 您的浏览器将自动下载该 Word 文档。
 
@@ -47,7 +47,7 @@ Microsoft Word टेम्प्लेट डाउनलोड करने �
 
 https://github.com/LJF527/ADLib/blob/8230d358075031da55d00ee1655b1c2cf7515852/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Visual%20Conversation/Template%20(Microsoft%20Word)/Visual%20Conversation%20Template-hi_in.docx
 
-"रॉ देखें" चुनें।
+"रॉ देखें" चुनें। ("View Raw")
 
 आपका ब्राउज़र अपने आप वर्ड डॉक्यूमेंट डाउनलोड कर लेगा।
 
