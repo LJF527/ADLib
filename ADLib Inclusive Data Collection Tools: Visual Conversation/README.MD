@@ -7,10 +7,7 @@ When you follow the link, you will be asked: Would you like to make a copy of [r
 Select “make a copy”.
 
 You can now edit the google document to suit your needs.
-/
-/
-/
-/
+
 如需下载 Google 文档模板，请点击此链接：
 
 https://docs.google.com/document/d/1uhnec1fERTi8OmLL65Txn69q22g0yZTd/edit?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
