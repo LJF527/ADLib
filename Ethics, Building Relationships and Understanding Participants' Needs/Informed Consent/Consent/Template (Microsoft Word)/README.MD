@@ -18,7 +18,7 @@ You can now edit the word document to suit your needs.
 
 请点击此链接：
 
-https://github.com/LJF527/ADLib/blob/5a11f87a4c548db2a65bab6fb0eea7536321b815/Ethics%2C%20Building%20Relationships%20and%20Understanding%20Participants'%20Needs/Informed%20Consent/Consent%20Fact%20Sheet/Template%20(Word%20Document)/Consent%20Fact%20Sheet%20(Easy%20Read)%20Template-zh_cn.docx
+https://github.com/LJF527/ADLib/blob/c402f209b01ef0a6a2e9f8ff222f8365b4c56cae/Ethics%2C%20Building%20Relationships%20and%20Understanding%20Participants'%20Needs/Informed%20Consent/Consent/Template%20(Microsoft%20Word)/Consent%20(Easy%20Read)%20Template-zh_cn.docx
 
 选择“查看原始文件” ("View Raw")。
 
