@@ -2,7 +2,7 @@ To download the Microsoft Word template:
 
 Follow this link:
 
-https://github.com/LJF527/ADLib/blob/ca3934f19c2c9f6fbf5884ea02cfd361f0f01481/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Elicitation%20Story/Template%20(Microsoft%20Word)/Elicitation%20Story%20Template%20.docx
+https://github.com/LJF527/ADLib/blob/afd936e0d235229e7828b8a6bf12a722e9a927ec/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Energy%20Meter/Template%20(Microsoft%20Word)/Energy%20Meter%20Template.docx
 
 Select “view raw”.
 
@@ -18,7 +18,7 @@ You can now edit the word document to suit your needs.
 
 请点击此链接：
 
-https://github.com/LJF527/ADLib/blob/ca3934f19c2c9f6fbf5884ea02cfd361f0f01481/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Elicitation%20Story/Template%20(Microsoft%20Word)/Elicitation%20Story%20Template-zh_cn.docx
+https://github.com/LJF527/ADLib/blob/afd936e0d235229e7828b8a6bf12a722e9a927ec/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Energy%20Meter/Template%20(Microsoft%20Word)/Energy%20Meter%20Template-zh_cn.docx
 
 选择“查看原始文件” ("View Raw")。
 
@@ -34,7 +34,7 @@ Para descargar la plantilla de Microsoft Word:
 
 Haz clic en este enlace:
 
-https://github.com/LJF527/ADLib/blob/ca3934f19c2c9f6fbf5884ea02cfd361f0f01481/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Elicitation%20Story/Template%20(Microsoft%20Word)/Elicitation%20Story%20Template-es_es.docx
+https://github.com/LJF527/ADLib/blob/afd936e0d235229e7828b8a6bf12a722e9a927ec/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Energy%20Meter/Template%20(Microsoft%20Word)/Energy%20Meter%20Template-es_es.docx
 
 Selecciona «Ver sin editar (view raw)».
 
@@ -50,7 +50,7 @@ Microsoft Word टेम्प्लेट डाउनलोड करने �
 
 इस लिंक को फॉलो करें:
 
-https://github.com/LJF527/ADLib/blob/ca3934f19c2c9f6fbf5884ea02cfd361f0f01481/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Elicitation%20Story/Template%20(Microsoft%20Word)/Elicitation%20Story%20Template-hi_in.docx
+https://github.com/LJF527/ADLib/blob/afd936e0d235229e7828b8a6bf12a722e9a927ec/ADLib%20Inclusive%20Data%20Collection%20Tools%3A%20Energy%20Meter/Template%20(Microsoft%20Word)/Energy%20Meter%20Template-hi_in.docx
 
 "रॉ देखें" चुनें। ("View Raw")
 
