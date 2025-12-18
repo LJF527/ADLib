@@ -36,7 +36,7 @@ Ahora puedes editar el documento de Google como quieras.
 
 गूगल डॉक्यूमेंट टेम्प्लेट डाउनलोड करने के लिए, इस लिंक को फॉलो करें:
 
-https://docs.google.com/document/d/1s4NXslcjCyGTRCRtI4NLtzygMfyPehpX/edit?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
+https://docs.google.com/document/d/1s4NXslcjCyGTRCRtI4NLtzygMfyPehpX/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
 
 जब आप लिंक को फॉलो करेंगे, तो आपसे पूछा जाएगा: क्या आप [रिसोर्स का नाम] की एक कॉपी बनाना चाहेंगे?
 
