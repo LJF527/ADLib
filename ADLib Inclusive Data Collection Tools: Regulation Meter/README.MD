@@ -1,6 +1,6 @@
 To download the Google Docs template, follow this link:
 
-https://docs.google.com/document/d/1UdbEA-TENv2QPd_toX6Vdf-NP0L5BjDt/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
+https://docs.google.com/document/d/1BDWN6-oVYWWjQGUlrWyeCfSOvoDDxJ1W/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
 
 When you follow the link, you will be asked: Would you like to make a copy of [resource name].
 
@@ -12,7 +12,7 @@ You can now edit the google document to suit your needs.
 
 如需下载 Google 文档模板，请点击此链接：
 
-https://docs.google.com/document/d/12GLHqUBNhLOtcCQWKkN5eMfAJBwO6SAE/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
+https://docs.google.com/document/d/11izCA29m61d9h6Y7bsYFp5Zk0gv9H3SD/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
 
 点击链接后，您会看到提示：您是否要创建[资源名称]的副本。
 
@@ -24,7 +24,7 @@ https://docs.google.com/document/d/12GLHqUBNhLOtcCQWKkN5eMfAJBwO6SAE/copy?usp=dr
 
 Para descargar la plantilla de Google Docs, haz clic en este enlace:
 
-https://docs.google.com/document/d/1-3DPlDke2nEbB4HmjgLmBYgzJT8Q8210/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
+https://docs.google.com/document/d/1Mebd484qnZqRZ1Tta1a5rlO0y4Eadb_T/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
 
 Cuando hagas clic en este enlace, verás la pregunta: ¿Quieres hacer una copia de [nombre del recurso]?
 
@@ -36,7 +36,7 @@ Ahora puedes editar el documento de Google como quieras.
 
 गूगल डॉक्यूमेंट टेम्प्लेट डाउनलोड करने के लिए, इस लिंक को फॉलो करें:
 
-https://docs.google.com/document/d/1s4NXslcjCyGTRCRtI4NLtzygMfyPehpX/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
+https://docs.google.com/document/d/1qmPz3eK70VqKc3WEqy7-rv6krcpj5Lw0/copy?usp=drive_link&ouid=101274552873271162240&rtpof=true&sd=true
 
 जब आप लिंक को फॉलो करेंगे, तो आपसे पूछा जाएगा: क्या आप [रिसोर्स का नाम] की एक कॉपी बनाना चाहेंगे?
 
